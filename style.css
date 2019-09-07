@@ -1,0 +1,104 @@
+.fa-gear:before, .fa-cog:before {
+    content: "\f013";
+    color: #ffa500;
+}
+.w3-white, .w3-hover-white:hover {
+    color: #000!important;
+    background-color: black;
+}
+.my-button: hover {
+	color: #ffa500;
+}
+.my-button{
+	background-color: black;
+}
+.my-hover:hover {
+    color: #000!important;
+    background-color: #ffa500!important;
+}
+
+.my-hover-text:hover {
+    color: #ffa500!important;
+}
+.my-hover-black:hover {
+	color: black!important;
+background-color: #000!important;	
+}
+.my-desc{
+	margin: 0px;
+    align-self: center;
+    font-size: 30px;
+}
+.fa-facebook-official:before {
+    content: "\f230";
+    font-size: 30px;
+ }
+ .fa-instagram:before {
+    content: "\f16d";
+     font-size: 30px;
+}
+.fa-twitter:before {
+    content: "\f099";
+     font-size: 30px;
+}
+.fa-linkedin:before {
+    content: "\f0e1";
+    font-size: 30px;
+}
+}
+.hover-opacity{
+	color: #ffa500;
+}
+.my-social{
+	display: flex;
+	justify-content: center;
+}
+.card{
+padding: 10px;
+align-self: center;
+ 
+}
+.w3-text-grey{
+	text-align: center;
+}
+.my-card-context{
+	padding: 5px;
+	width: auto;
+	height: auto;
+}
+.my-img{
+   width: 100%;
+  display: inline;
+  align-self: center;
+
+}
+.container{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+.my-card{
+	/*border:5px solid white;*/
+	padding: 1px;
+}
+.my-skills{
+	right:0;
+	height:300px;
+	width:540px;
+	background-color: black;
+}
+.my-skill-text{
+	color: gray;
+}
+.my-skills1{
+	right:0;
+	height:300px;
+	width:494px;
+	background-color: black;
+}
+.my-skills2{
+	right:0;
+	height:300px;
+	width:590px;
+	background-color: black;
+}
